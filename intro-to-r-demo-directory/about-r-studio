@@ -1,0 +1,9 @@
+RStudio project initialization
+- create a new project in a known directory
+- show that there is git integration
+- show in finder that the folder is populating to represent this project and that there is an intro to r demo file that is the rproject
+- move the data files into appropriate folders
+
+
+Using RStudio
+- point out the 4 different quadrants 

@@ -1,0 +1,6 @@
+"","unique_id","names","ages","as.factor.group.","passed_test"
+"1","UID_1","tilda",3,"1",TRUE
+"2","UID_2","george",80,"3",FALSE
+"3","UID_3","bernard",75,"2",FALSE
+"4","UID_4","jane",22,"3",TRUE
+"5","UID_5","renold",81,"3",FALSE
