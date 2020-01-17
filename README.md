@@ -7,8 +7,10 @@ This lecture and demonstration will overview R, a programming language and envir
 
 The demonstration will provide examples of the following R basics:
 
-* Math operations
-* Comparison operators
-* Conditional logic
-* Creating and working with lists and dataframes in R
-* dplyr basics 
+* RStudio project initialization
+* Using RStudio (though the in-person version of this class is able to go into more depth with RStudio content than can be included in this github repo)
+* Data types (strings, Booleans, and numeric data)
+* Data structures (lists and data frames)
+* Data import and export
+* Performing basic statistical functions
+* Creating basic graphs
